@@ -8,7 +8,7 @@ This project implements **text summarization** using both **abstractive** and **
 - **Extractive Summarization**: Selects the most relevant sentences from the original text.
 - **Abstractive Summarization**: Generates summaries using:
   - [BART-large](https://huggingface.co/facebook/bart-large)
-  - [T5-small](https://huggingface.co/google/t5-small)
+  - [T5-small](https://huggingface.co/google-t5/t5-small)
 - **Fine-tuning**: Easily fine-tune the model BART on custom datasets.
 - **Custom Input Summarization**: Generate summaries for any input text.
 
