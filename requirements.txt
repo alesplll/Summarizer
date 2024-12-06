@@ -1,0 +1,6 @@
+datasets
+transformers
+nltk
+scikit-learn
+rouge-score
+streamlit
