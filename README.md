@@ -16,18 +16,18 @@ This project implements **text summarization** using both **abstractive** and **
 ## Installation
 
 1. Clone the repository:
-   ```bash
+```bash
    git clone https://github.com/alesplll/Summarizer.git
    cd Summarizer
 ```
 
 2. Set up a virtual environment and install dependencies:
-    ```bash
+```bash
 python3.9 -m venv myenv
 source myenv/bin/activate  # Linux/MacOS
 myenv\Scripts\activate     # Windows
 pip install -r requirements.txt
-    ```
+```
 
 ---
 ## Usage
